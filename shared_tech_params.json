@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAI": {
+            "name": "CSS file",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1664878011711x461087840448216400/showdown.css"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 3,
+        "use_jquery": true
+    }
+}

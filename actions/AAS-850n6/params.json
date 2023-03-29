@@ -1,0 +1,25 @@
+{
+    "category": "plugins",
+    "display": "Highlight HTML (server-side)",
+    "fields": {
+        "AAT": {
+            "caption": "html",
+            "default_val": "<h1>some valid html</h1>",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "html",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAU": {
+            "caption": "highlighted_html",
+            "name": "highlighted_html",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "server_side",
+    "use_packages": true
+}
